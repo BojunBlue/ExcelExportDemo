@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ExcelExportDemo</string>
+    <string name="string_permissions_open_tips" translatable="false">请开启相关权限后再操作</string>
+</resources>
